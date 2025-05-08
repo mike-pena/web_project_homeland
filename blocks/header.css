@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+}
+
+.header__logo {
+  width: 254.84px;
+}
+
+.header__title {
+  font-size: 96px;
+  font-weight: 900;
+  line-height: 100px;
+  width: 720px;
+  margin: auto;
+}
+
+.header__subtitle {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 36px;
+  width: 720px;
+  margin: auto;
+}

@@ -1,0 +1,30 @@
+.content {
+  width: 984px;
+  margin: auto;
+  padding-right: 300px;
+  box-sizing: border-box;
+}
+
+.content__title {
+  font-size: 54px;
+  font-weight: 900;
+  line-height: 58px;
+}
+
+.content__quote-text {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+}
+
+.content__quote-author {
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 34px;
+  text-align: right;
+}
+
+.content__text {
+  font-size: 16px;
+  font-weight: 400;
+}
