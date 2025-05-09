@@ -1,10 +1,10 @@
-.content {
+.intro {
   width: 984px;
   margin: auto;
   box-sizing: border-box;
 }
 
-.content__title {
+.intro__title {
   font-size: 54px;
   font-weight: 900;
   line-height: 1.07;
@@ -13,7 +13,7 @@
   padding-right: 154px;
 }
 
-.content__quote-text {
+.intro__quote-text {
   font-size: 24px;
   font-weight: 400;
   line-height: 1.4;
@@ -22,7 +22,7 @@
   padding-right: 246px;
 }
 
-.content__quote-author {
+.intro__quote-author {
   font-size: 24px;
   font-weight: 400;
   line-height: 1.4;
@@ -32,7 +32,7 @@
   padding-right: 252px;
 }
 
-.content__text {
+.intro__text {
   font-size: 16px;
   font-weight: 400;
   line-height: 1.63;
@@ -42,52 +42,52 @@
 }
 
 @media screen and (max-width: 1024px) {
-  .content {
+  .intro {
     width: 92%;
   }
 
-  .content__title {
+  .intro__title {
     font-size: 45px;
     line-height: 1.08;
     margin-bottom: 50px;
     padding-right: 13px;
   }
 
-  .content__quote-text {
+  .intro__quote-text {
     font-size: 24px;
     padding-right: 0;
     margin-bottom: 0;
   }
 
-  .content__quote-author {
+  .intro__quote-author {
     padding-right: 0;
   }
 
-  .content__text {
+  .intro__text {
     margin-bottom: 88px;
     padding-right: 0;
   }
 }
 
 @media screen and (max-width: 544px) {
-  .content {
+  .intro {
     width: 90%;
   }
 
-  .content__title {
+  .intro__title {
     font-size: 32px;
     line-height: 1.09;
     margin-bottom: 40px;
     padding-right: 0;
   }
 
-  .content__quote-text {
+  .intro__quote-text {
     font-size: 24px;
     line-height: 1.25;
     margin-bottom: 10px;
   }
 
-  .content__text {
+  .intro__text {
     margin-bottom: 64px;
   }
 }
