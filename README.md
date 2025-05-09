@@ -8,4 +8,6 @@ La página web de TripleTen Art Gallery es el quinto proyecto en el programa de 
 - Diseño responsivo
 - Figma
 
-#
+## GitHub Page
+
+https://mike-pena.github.io/web_project_homeland/
